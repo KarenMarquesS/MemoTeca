@@ -1,0 +1,31 @@
+.header-listar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.header-listar h2 {
+  margin: 0;
+  text-align: left;
+}
+
+.header-listar .botao {
+  margin: 0;
+  max-width: none;
+}
+
+.mural {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin: 1rem 0 2rem;
+}
+
+.sem-pensamentos {
+  text-align: center;
+  padding: 2rem 0 5rem;
+  color: #154580;
+}
